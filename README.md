@@ -1,18 +1,10 @@
-# DobaraMatPuchana
-
-## **Jyoti** : Assistant for blind
+Virtual Assistance For Visually Impaired
 
 A *voice assistant* specifically aiming towards aiding the visually imapired.
 
 This system is used to help the visually impaired to have access to the most important features enhancing their living conditions making use of different custom layouts and using speech to text.
 
 More specifically, the system is a chat bot having features solely dedicated towards development of the visually impaired.
-
-## Fetaures which make "Jyoti" unique:
-
-The system consist of wearable headphones interfaced to Logitech webcam connected to Raspberry PI.
-
-The system performs tasks based on the input (in form of speech) given by the user and responds back as speech.
 
 Key Features:
 
