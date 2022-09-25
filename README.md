@@ -67,6 +67,12 @@ Tech- stacks used:
 
 
 Project Worked on by:-
-                           Bharath Kumar S
-                           Harshith R
-                           Lochan R
+
+
+                          Bharath Kumar S
+                          
+                          
+                          Harshith R
+                          
+                          
+                          Lochan R
